@@ -114,8 +114,3 @@ Google Search trend analysis provides valuable insight into public interest and 
 - Forecasting using ARIMA or Prophet
 - Comparison of multiple keywords
 - Interactive dashboards using Plotly or Streamlit
-
----
-
-## License
-This project is open-source and available under the MIT License.
